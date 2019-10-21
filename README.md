@@ -23,9 +23,9 @@ How to use?
 2. Copy and paste the clientID and clientSecret to [credentials.py](credentials.py).  
 3. Initially call the [authenticate.py](authenticate.py) script to set-up the connection / authenticate this app.
 4. Download and istall wkhtmltopdf.
-5. Update [mail_to_pdf.py](mail_to_pdf.py).
-    6. Update with the wkhtmltopdf path.
-    7. Set the mailbox folder name in case you have your mails in a dedicated SBB receipts folder.
-    7. Set the output directory
+5. Update [mail_to_pdf.py](mail_to_pdf.py):
+6. Set the wkhtmltopdf path.
+7. Set the mailbox folder name in case you have your mails in a dedicated SBB receipts folder.
+7. Set the output directory.
 
 Now you can simply run [mail_to_pdf.py](mail_to_pdf.py).
