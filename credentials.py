@@ -1,0 +1,2 @@
+clientID = 'TODO'
+clientSecret = 'TODO'
